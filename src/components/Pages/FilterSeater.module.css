@@ -1,0 +1,15 @@
+
+.seater{
+    color:#000000;
+}
+
+.button{
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.selected{
+    background-color: orange;
+    color: white;
+    border: 1px solid white;
+}

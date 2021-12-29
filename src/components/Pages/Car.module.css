@@ -1,0 +1,19 @@
+
+
+.car{
+    height:100px;
+    width:100px;
+}
+.group {
+    display: inline-grid;
+    justify-content: center;
+    padding: 20px;
+    width: 25%;
+}
+
+.title{
+    font-weight:bold;
+}
+.rating{
+    float:right
+}
