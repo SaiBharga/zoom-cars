@@ -1,0 +1,9 @@
+
+.cars{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.car {
+    width: 25%;
+}

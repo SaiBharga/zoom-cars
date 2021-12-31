@@ -1,0 +1,25 @@
+
+
+.car{
+    height:100px;
+    width:100px;
+}
+.group {
+    display: inline-grid;
+    justify-content: center;
+    margin: 20px;
+    width: 25%;
+    border: 1px solid orange;
+}
+
+.title{
+    font-weight:bold;
+}
+.rating{
+    float:right;
+    color:red;
+}
+
+.rupee{
+    color:green
+}
